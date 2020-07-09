@@ -1,4 +1,6 @@
-👋 Hey! I'm a software engineer @Microsoft working on Outlook Mobile. 
+### 👋 Hey! 
+
+I'm a software engineer @Microsoft working on Outlook Mobile. 
 
 ### 👨‍💻 Cool stuff I'm working on
 
