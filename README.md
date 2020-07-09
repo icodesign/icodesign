@@ -1,5 +1,3 @@
-![icodesign](https://www.icodesign.me/images/logo.svg)
-
 👋 Hey! I'm a software engineer @Microsoft working on Outlook Mobile. 
 
 ### 👨‍💻 Cool stuff I'm working on
@@ -11,9 +9,8 @@
 
 ### 📫 How to reach me
 
-Twitter: [@icodesign_me](https://twitter.com/icodesign_me)
-
-Email: [github@icodesign.me](mailto:github@icodesign.me)
+- Twitter: [@icodesign_me](https://twitter.com/icodesign_me)
+- Email: [github@icodesign.me](mailto:github@icodesign.me)
 
 
 <!--
