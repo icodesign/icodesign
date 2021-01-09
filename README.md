@@ -5,7 +5,7 @@ I'm a software engineer @Microsoft working on Outlook Mobile.
 ### 👨‍💻 Cool stuff I'm working on
 
 - **[Potatso](https://download-lite.potatso.com)**: A network tool for iOS
-- **[Potatso](https://app.cutowallpaper.com): A wallpaper app for iOS/Android
+- **[Cuto Wallpaper](https://app.cutowallpaper.com)**: A wallpaper app for iOS/Android
 - **[Hello World!](https://icodesign.me)**: A podcast in Chinese
 - Untitled: An unrevealed project 🙀
 
