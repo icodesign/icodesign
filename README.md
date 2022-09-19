@@ -12,7 +12,7 @@ I'm a software engineer @Microsoft working on Outlook Mobile.
 ### 📫 How to reach me
 
 - Twitter: [@icodesign_me](https://twitter.com/icodesign_me)
-- Email: [github@icodesign.me](mailto:github@icodesign.me)
+- Email: github(AT)icodesign.me
 
 
 <!--
