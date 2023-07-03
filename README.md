@@ -2,12 +2,6 @@
 
 I'm a software engineer @Microsoft working on Outlook Mobile. 
 
-### 👨‍💻 Cool stuff I'm working on
-
-- **[Cuto Wallpaper](https://cuto.app)**: A wallpaper app for iOS/Android
-- **[Hello World!](https://icodesign.me)**: A podcast in Chinese
-- Untitled: An unrevealed project 🙀
-
 ### 📫 How to reach me
 
 - Twitter: [@icodesign_me](https://twitter.com/icodesign_me)
