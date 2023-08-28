@@ -4,7 +4,7 @@ I'm a software engineer @Microsoft working on Outlook Mobile.
 
 ### 📫 How to reach me
 
-- Twitter: [@icodesign_me](https://twitter.com/icodesign_me)
+- Twitter: [@lancwangx](https://x.com/lancewangx)
 - Email: github(AT)icodesign.me
 
 
