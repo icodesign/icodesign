@@ -1,6 +1,6 @@
 ### 👋 Hey! 
 
-I'm a software engineer @Microsoft working on Outlook Mobile. 
+I'm a self-funded software engineer. 
 
 ### 📫 How to reach me
 
